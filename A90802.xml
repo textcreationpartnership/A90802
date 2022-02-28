@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>De non temerandis ecclesiis. Whereof, the name and sacrednesse of churches (against those, who in contempt call them steeple-houses) proposed, by way of conference. / By P. Panter, Doctor in Divinitie.</title>
+            <author>Panter, Patrick, ca. 1470-1519.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90802</idno>
+            <idno type="STC">Wing P273</idno>
+            <idno type="STC">Thomason E608_4</idno>
+            <idno type="STC">ESTC R205906</idno>
+            <idno type="EEBO-CITATION">99865136</idno>
+            <idno type="PROQUEST">99865136</idno>
+            <idno type="VID">165691</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165691)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E608[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>De non temerandis ecclesiis. Whereof, the name and sacrednesse of churches (against those, who in contempt call them steeple-houses) proposed, by way of conference. / By P. Panter, Doctor in Divinitie.</title>
+                  <author>Panter, Patrick, ca. 1470-1519.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Vere, dwelling at the upper end of the Old-Bayly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 22.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church buildings --  Nomenclature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165691:1" rendition="simple:additions"/>
+            <p>DE NON TEMERANDIS ECCLESIIS.</p>
+            <p>Whereof, The Name and Sacredneſſe of CHURCHES (againſt thoſe, who in Contempt call them STEEPLE-HOUSES) propoſed, by way of Conference.</p>
+            <p>By <hi>P. Panter,</hi> Doctor in Divinitie.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>July .22.</add> LONDON: Printed for <hi>Thomas Vere,</hi> dwelling at the upper end of the <hi>Old-Bayly.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_tract">
+            <pb facs="tcp:165691:2"/>
+            <pb n="1" facs="tcp:165691:2"/>
+            <head>DE NON TEMERANDIS ECCLESIIS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Doctor having formerly main<g ref="char:EOLhyphen"/>tained a Diſpute, concerning Baptiſme of Infants of Chriſtians, againſt Maſter <hi>Browne,</hi> Preacher to the Anabaptiſts, lately Printed: Upon another occaſi<g ref="char:EOLhyphen"/>on, meeting with one of the ſame Pro<g ref="char:EOLhyphen"/>feſſion, and uſing the Name of Churches, according to the common uſe of ſpeech (which hath authoritie and arbitrement in the like caſe, according to that of the Poet; <hi>Si volet uſus, quem penes arbitrium eſt, &amp; vis, &amp; norma loquendi:</hi>) The other being impatient, ſaid; What? Doe you call your Meeting-Houſes, and Steeple-Houſes, Churches? The uſer of the word askt; If ei<g ref="char:EOLhyphen"/>ther the Name of <hi>Eccleſia</hi> in Greeke or Latine, or of Church in the Engliſh, was ſo unfit, or inſolent? Was it not an ordinarie Metonymie, or transferring of Names, to give to the place the Name of the thing pla<g ref="char:EOLhyphen"/>ced, or meeting in the place, and haunting the ſame? Was not <hi>Synagoga</hi> properly an Aſſembly, and yet moſt uſuall for the place of Aſſembling? Hence the Maſter of the Synagogue, Chriſt, taught in the Synagogues of <hi>Galile; Paul</hi> and <hi>Barnabas</hi> having entred the Syna<g ref="char:EOLhyphen"/>gogue
+<pb n="2" facs="tcp:165691:3"/>on the Sabbath day, ſat downe, <hi>Act.</hi> 13.14. So <hi>Eccleſia,</hi> albeit firſt it ſignifie an Aſſembly called toge<g ref="char:EOLhyphen"/>ther, yet fitly is uſed for the place; as <hi>Proſeucha</hi> pro<g ref="char:EOLhyphen"/>perly ſignifying in the Greeke a Prayer, or Petition, is transferred to ſignifie the place of Petitioning: whence <hi>Juvenal</hi> hath, <hi>In quâ te quaero proſeucha?</hi> In what com<g ref="char:EOLhyphen"/>mon place ſhall I ſeeke you?</p>
+            <p>But as to the Engliſh Name, Church, there is not ſo much as a Metonymie, or figure in it, but a proper ſpeech, as the Affirmer offered to prove by this Rea<g ref="char:EOLhyphen"/>ſon:</p>
+            <p>That uſe of Names, which is according to the Etymon, and native force of them, is moſt pro<g ref="char:EOLhyphen"/>per;</p>
+            <p>But the Name of Church (as it is given to the meeting places of Chriſtians) is uſed according to the Etymon, and native force and vertue thereof:</p>
+            <p>
+               <hi>Ergo,</hi> The Name of Church, ſo uſed, is moſt proper.</p>
+            <p>The Aſſumption, or <hi>Minor,</hi> he thus proved: The Etymon of Church, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Curiace,</hi> that is, a place belonging to the Lord, as <hi>Baſilica</hi> to the King his Pa<g ref="char:EOLhyphen"/>lace: now Churches are the Lords Houſes, therefore the Name of the Church is according to the Etymon of the word.</p>
+            <p>Here the Adverſarie replyed, That no place was pe<g ref="char:EOLhyphen"/>culiarly the Lords, more then another. To whom it was anſwered, That ſure ſome places were; he grant<g ref="char:EOLhyphen"/>ing, that the Temple of <hi>Jeruſalem</hi> was, which God had choſen to put his Name in. It was askt, If none other? What ſay you (ſaid the Affirmer) of <hi>Pſal.</hi> 83.12. <hi>Let us take the Houſes of God in poſſeſſion;</hi> there is the Plu<g ref="char:EOLhyphen"/>rall number: and of <hi>Pſal.</hi> 74.8. <hi>They burnt up all the Houſes of God throughout the Land.</hi> Where the Syna<g ref="char:EOLhyphen"/>gogues are underſtood, not onely many yeares later then the Tabernacle, or Temple, but alſo having no
+<pb n="3" facs="tcp:165691:3"/>myſterie in them, but appointed for uſe and order allanerly, as ours are; which, why they may not, and ought not to be called the Lords Houſes, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and Churches, no man can ſhew a reaſon. <hi>Dic aliquem, ſedes, hîc Quintiliane colorem;</hi> and whoſoever either ta<g ref="char:EOLhyphen"/>keth them in poſſeſſion, or deſtroyeth the ſame, com<g ref="char:EOLhyphen"/>mitteth Sacriledge, a ſinne ranked with Idolatrie it ſelfe, <hi>Rom.</hi> 2.22. <hi>Thou hateſt Idols, but committeſt Sa<g ref="char:EOLhyphen"/>criledge.</hi>
+            </p>
+            <p>Here the Adverſarie of Churches askt; Is there any holyneſſe in places, albeit dedicated to God and his ſer<g ref="char:EOLhyphen"/>vice? The Affirmer anſwered, by a diſtinction of holy<g ref="char:EOLhyphen"/>neſſe: for, ſayth he, it is Homonymum, and found in two Categories, or kinds of things; in the Categorie of Qualities, and the Categorie of Relations. Holy<g ref="char:EOLhyphen"/>neſſe in the firſt ſenſe, is oppoſed to wickedneſſe, or ungodlineſſe, and is onely incident to rationall and intellectuall things; and it is a qualitie, diſpoſition, or habit of the mind and affections: in the ſecond ſenſe, it is oppoſed to Common, <hi>Act.</hi> 10.15. <hi>That which I have purified</hi> (or made holy) <hi>that call thou not common;</hi> where, literally the Viſion ſpeaketh of Meats, and my<g ref="char:EOLhyphen"/>ſtically onely of Men. So the <hi>holy Citie, Matth.</hi> 4.5. the Temple, called the <hi>holy Place, Heb.</hi> 9.1, 2, 3. So the Veſſels ſerving for the Miniſterie, called <hi>ſacred,</hi> or <hi>holy,</hi> that is, not common, but holy, by a two-fold relation to God, (who as he is holy alone, ſo things are holy, by reference to him) either as Lord and Poſſeſſor in a pe<g ref="char:EOLhyphen"/>culiar manner, or by reference to him, as the end for whoſe ſervice and glory they are appointed and ſet apart, and whereto he hath promiſed his preſence; which may be reckoned a third relation. So that they are holy, becauſe His, for Him, and He is in them in a ſpeciall manner, as to places; for, <hi>where two or three are met together, there am I,</hi> Matth. 18.20.</p>
+            <p>Here the Adverſarie did object, That theſe differences and relations were taken away by our Saviour, <hi>John</hi>
+               <pb n="4" facs="tcp:165691:4"/>
+               <hi>4.21. The houre commeth, and now is, that neither in this Mountaine, nor at Jeruſalem, ſhall ye worſhip the Father; but the true worſhippers ſhall worſhip in ſpirit and truth.</hi> For anſwer whereto, take this firſt, That our Saviour there taketh the priviledge of place of worſhip from none, but the two places there mentioned, of whom the queſtion then was, to wit, that Mountaine of <hi>Ga<g ref="char:EOLhyphen"/>rizim,</hi> (pointed at by the <hi>Samaritan</hi> woman, <hi>verſ.</hi> 20.) and <hi>Jeruſalem.</hi> Secondly, our Saviour taketh the pri<g ref="char:EOLhyphen"/>viledge no other wayes from them, then as it was arro<g ref="char:EOLhyphen"/>gated and challenged by them, that is, to be the onely place of worſhip in the world, whither they muſt ei<g ref="char:EOLhyphen"/>ther reſort, or direct their faces and prayers, 1 <hi>Kings</hi> 8. 29, 30. and <hi>Daniel</hi> 6.10. Our Saviour declareth to her therefore, That henceforth not theſe places alone ſhould have the priviledge of Gods preſence, but alſo whatſoever places of meeting throughout the world, according to that of <hi>Malachy</hi> 1.11. and 1 <hi>Tim.</hi> 2.8. Where, albeit there be an Univerſall, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in every place, yet it is to be extended according to the intention of the place, which is in the generall, con<g ref="char:EOLhyphen"/>cerning Church, or publike Service, <hi>verſ.</hi> 1 <hi>&amp;</hi> 2. and the behaviour of perſons thereabout; men, <hi>verſ.</hi> 8. wo<g ref="char:EOLhyphen"/>men, 8, 9, 10, 11, &amp;c. Where, as praying publikely is permitted to men in every publike place of Worſhip, providing they lift up pure hands, (howſoever the place before had beene impure) ſo he reſtraineth the women to ſilence; which cannot be underſtood of private places of Worſhip, (for there women are licen<g ref="char:EOLhyphen"/>ſed both to pray, and aske queſtions, 1 <hi>Cor.</hi> 14.35.) but of the Church, or publike places, as it is expounded by the words of the ſame Apoſtle, 1 <hi>Cor.</hi> 14.34. The com<g ref="char:EOLhyphen"/>mand then, or licenſing of men to pray in every place, is to be taken alſo of theſe publike places of Prayer; ſo that they are not put down under the Goſpel, but eſta<g ref="char:EOLhyphen"/>bliſhed. Neither doe the words of our Saviour, <hi>Joh.</hi> 4.23. of the <hi>true worſhipping in ſpirit and truth,</hi> make againſt
+<pb n="5" facs="tcp:165691:4"/>it: for if all worſhip performed by and with the body, or in bodily places, thereby were forbidden, not onely publike but private devotions, and Family-Service ſhould ceaſe, and we muſt goe out of the body &amp; world too. And what ſhould become of <hi>Malachies pure Ob<g ref="char:EOLhyphen"/>lation,</hi> offered now under the Goſpel among the Gen<g ref="char:EOLhyphen"/>tiles, <hi>from the riſing of the Sunne to the going downe of the ſame?</hi> And what of the <hi>lifting up of pure hands</hi> in every place by men, mentioned 1 <hi>Tim.</hi> 2.8? And what of <hi>Pſalmes, Hymnes, and Spirituall Songs,</hi> recommended <hi>Eph.</hi> 5.19?</p>
+            <p>O but (ſay ſome) their melodie to God in the heart is recommended. But I anſwer: In the heart, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is with the heart, or from the heart; as <hi>Pſal.</hi> 15.2. who <hi>ſpeaketh the truth in his heart:</hi> not that the truth is not to be ſpoken with the mouth, but inſinuating the foun<g ref="char:EOLhyphen"/>taine and beginning of truth; from the heart, or with the heart; ſo that the tongue and heart agree together: and ſo <hi>Eph.</hi> 5.19. <hi>making melodie to the Lord in your heart,</hi> that is, from the heart; and <hi>Job.</hi> 4.23. <hi>in ſpirit,</hi> that is, from the ſpirit, or with the ſpirit; yet not ex<g ref="char:EOLhyphen"/>cluding the body.</p>
+            <p>But the words of our Saviour are in oppoſition to the <hi>Jewiſh</hi> and <hi>Samaritan</hi> worſhip (of which the wo<g ref="char:EOLhyphen"/>man there did ſpeak) which was in carnall ordinances of eating, and abſtinence from certaine meats &amp; drinks, and divers baptiſmes and purifyings of the fleſh, not reaching the conſcience, <hi>Heb.</hi> 9. <hi>v.</hi> 10. <hi>&amp;</hi> 13. which, as it was oppoſite to ſpirituall worſhip, or worſhip in ſpi<g ref="char:EOLhyphen"/>rit; ſo being typicall, and conſiſting in figures and ſhadowes, was oppoſite to the truth, or true worſhip under the Goſpel.</p>
+            <p>Others oppoſe the worſhip in Spirit to the <hi>Jewiſh,</hi> and worſhip in Truth to the <hi>Samaritan,</hi> which was falſe, and of the falſe gods, for they worſhipped what they <hi>knew not, Ioh.</hi> 4.22. But no man of underſtanding will oppoſe it to all ſervice of God, to be performed by
+<pb n="6" facs="tcp:165691:5"/>or with the body, except it end in the body, and doe not edifie or elevate the ſpirit; as the <hi>Jewiſh</hi> abſtinences and ordinances, more burthening the ſpirit then edi<g ref="char:EOLhyphen"/>fying them.</p>
+            <p>Let them talke then as much as they will, of the Church of God in ones houſe; yet it maketh nothing againſt the Church of God in Congregations, and Pa<g ref="char:EOLhyphen"/>riſh s: For the Church being <hi>totum homo geneum,</hi> a whole made up of parts of the ſame kind, there are ſmaller and greater parts therein, and all bearing the name of the whole, yet ſo, as neigher prejudgeth other; ſo that every one keepe its owne order and place, and the leſſer and ſubordinate parts doe not lift themſelves up againſt the bigger and ſuperiour, and put them downe.</p>
+            <p>Neither is it marvell, that their Meetings were in private houſes at the beginning; (when they neither had nor could have other places) but now (having plentie and conveniencie of ſuch places of aſſembling, and libertie and peace to aſſemble as publikely as we will) to ſorſake the ſame, and get us to private places and wilderneſſes, it is not ſo much wantonneſſe, as in<g ref="char:EOLhyphen"/>ſolent and unheard of madneſſe: As S. <hi>Auſtin</hi> ſpeaketh in the like caſe of theſe, who leaving the cuſtome of the whole Church, follow (I know not what) private con<g ref="char:EOLhyphen"/>ceits of their owne, <hi>inſolentiſſimae eſt inſaniae.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
